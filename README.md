@@ -19,9 +19,6 @@ This repository contains my work, progress, and project submissions from the pre
 
 ---
 
-## 🗂️ Repository Structure
-
-```bash
 IBM-4-weeks-internship/
 ├── Week-1/                # Orientation, Cloud & AI Fundamentals
 ├── Week-2/                # Data Analytics & IBM Cloud EDA
