@@ -1,26 +1,32 @@
-# IBM 4‑Week AI & Cloud Internship 🚀
+# 💼 IBM SkillsBuild 4-Week Internship on AI & Cloud (July–August 2025)
 
-A detailed record of my participation in IBM’s 4‑week AI & Cloud virtual internship (via SkillsBuild, endorsed by AICTE). This repository showcases all projects, assignments, and learning milestones during the program.
-
----
-
-## 🎯 Internship Overview
-
-> **Program**: IBM AICTE AI & Cloud Internship  
-> **Duration**: 4 Weeks (Remote)  
-> **Platform**: [SkillsBuild.org](https://skillsbuild.org/)  
-> **Organizers**: IBM × AICTE × Edunet Foundation  
-> **Focus Areas**:  
-> - IBM Cloud Introduction  
-> - Basics of Artificial Intelligence  
-> - Machine Learning Model Building  
-> - Natural Language Processing (NLP)  
-> - IBM Watson Tools  
-> - Chatbot Creation  
-> - Cloud Deployment  
-
-The internship allowed students to solve real-world problems using AI and cloud technologies. We were guided via video sessions, hands-on labs, and project work.
+This repository contains my work, progress, and project submissions from the prestigious **IBM SkillsBuild 4-Week Virtual Internship** offered in collaboration with **AICTE** and **Edunet Foundation**. The internship focused on cutting-edge technologies like **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Cloud Computing**, **Data Analytics**, and **IBM Watson Tools**.
 
 ---
 
+## 📅 Internship Details
 
+- **Intern Name**: Poorva Jain  
+- **Institute**: Amity University  
+- **AICTE Student ID**: STU6858141271edf1750602770  
+- **Internship ID**: INTERNSHIP_1748937226683eaa0a58abc  
+- **Internship Duration**: 15th July 2025 – 7th August 2025  
+- **Internship Title**: IBM SkillsBuild 4-Weeks Internship on AI & Cloud Technologies  
+- **Organization**: IBM SkillsBuild, Edunet Foundation, AICTE  
+- **Location**: Virtual (Remote Internship)  
+- **Mentorship**: Assigned mentor with weekly guidance and review  
+- **Stipend**: No stipend (Learning & Certification based)  
+
+---
+
+## 🗂️ Repository Structure
+
+```bash
+IBM-4-weeks-internship/
+├── Week-1/                # Orientation, Cloud & AI Fundamentals
+├── Week-2/                # Data Analytics & IBM Cloud EDA
+├── Week-3/                # Chatbots & Problem Statements
+├── Week-4/                # AI/ML Experiments & Final Project
+├── Final-Project/         # Project presentation & source code
+├── Screenshots/           # Proof of completion, certifications
+└── README.md              # This file
